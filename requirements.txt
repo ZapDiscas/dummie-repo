@@ -1,0 +1,2 @@
+# GHSA-5v72-v2g2-w5r3 (High Severity)
+urllib3==1.26.4
